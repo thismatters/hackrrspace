@@ -39,20 +39,20 @@ In the programming segment of hackerspace we will focus on learning Python throu
 The basic lessons will go (roughly) as follows:
 
 0. Installation of Python.
-
 1. Hello World: Start with the basic hello world message, modify to allow the user to input their name, and have it print hello <name>.
   * see `hello.py`
   * print statement
-    * <<Use hyphens (-), plus signs (+), and pipes (|) to print a tic-tac-toe board>>
-         |   |
-      ---+---+---
-         |   |
-      ---+---+---
-         |   |
+    * Use hyphens (-), plus signs (+), and pipes (|) to print a tic-tac-toe board:
+```
+   |   |
+---+---+---
+   |   |
+---+---+---
+   |   |
+```
   * comments
   * receiving inputs
   * basic variables and assignment operator
-
 2. Variables: have the students experiment with different datatypes
   * see `variables.py`
   * integers
@@ -75,8 +75,7 @@ The basic lessons will go (roughly) as follows:
   * see `looping_structures.py`
   * for
   * while
-
-6. LEVEL TEST - arbitrarily sized tic-tac-toe board
+  LEVEL TEST - arbitrarily sized tic-tac-toe board
   * see `advanced_tic_tac_toe.py`
 6. Try-Except
   * see `exception_handling.py`
@@ -91,22 +90,29 @@ The basic lessons will go (roughly) as follows:
   * tuples
   * lists
   * dicts
-    * see 'dictionaries.py'
-  * _databases??_
-8. strings in depth
+    * see `dictionaries.py`
+10. Objects
+8. databases
+8. strings in depth??
   * built in string functions
   * _regular expressions?_
-10. Objects
 
 
 ## Hardware ##
 
-* screen printing
+* Maker track
   * make their own shirt to earn lvl1 maker (participate in screen printing preparations).
-* pcb etching
-  * lvl2 circuits
-* soldering
-  * lvl1 circuits
+
+* Circuits track
+  * breadboarding to earn lvl1
+    * 555 timer kit
+    * hackrrs choice.
+  * soldering to earn lvl2 (2 of the following)
+    * solder a pcb kit
+    * solder a proto-board with a circuit of your choosing
+    * freeform soldering
+  * pcb layout and etching to earn lvl3
+
 * computer disassembly
   * imac teardown, buildup
 * build an acton server
