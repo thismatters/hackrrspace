@@ -77,7 +77,6 @@ The basic lessons will go (roughly) as follows:
   * see `looping_structures.py`
   * for
   * while
-
   1. LEVEL TEST - arbitrarily sized tic-tac-toe board
     * see `advanced_tic_tac_toe.py`
 6. Try-Except
