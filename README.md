@@ -37,7 +37,9 @@ In the programming segment of hackerspace we will focus on learning Python throu
 ### Programming in practice ###
 
 The basic lessons will go (roughly) as follows:
+
 0. Installation of Python.
+
 1. Hello World: Start with the basic hello world message, modify to allow the user to input their name, and have it print hello <name>.
   * see `hello.py`
   * print statement
@@ -50,6 +52,7 @@ The basic lessons will go (roughly) as follows:
   * comments
   * receiving inputs
   * basic variables and assignment operator
+
 2. Variables: have the students experiment with different datatypes
   * see `variables.py`
   * integers
@@ -73,7 +76,7 @@ The basic lessons will go (roughly) as follows:
   * for
   * while
 
-LEVEL TEST - arbitrarily sized tic-tac-toe board
+6. LEVEL TEST - arbitrarily sized tic-tac-toe board
   * see `advanced_tic_tac_toe.py`
 6. Try-Except
   * see `exception_handling.py`
