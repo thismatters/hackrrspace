@@ -43,16 +43,17 @@ The basic lessons will go (roughly) as follows:
   * see `hello.py`
   * print statement
     * Use hyphens (-), plus signs (+), and pipes (|) to print a tic-tac-toe board:
-```
-   |   |
----+---+---
-   |   |
----+---+---
-   |   |
-```
   * comments
   * receiving inputs
   * basic variables and assignment operator
+  ```
+     |   |
+  ---+---+---
+     |   |
+  ---+---+---
+     |   |
+  ```
+
 2. Variables: have the students experiment with different datatypes
   * see `variables.py`
   * integers
