@@ -10,13 +10,13 @@ In the programming segment of hackerspace we will focus on learning Python throu
 ### Prerequisites for programming ###
 0. Working Computer
 1. Install python
-  * [On OSX]()
-  * [On Windows]()
+  * [On OSX](https://www.python.org/downloads/)
+  * [On Windows](https://www.python.org/downloads/)
   * On ChromeOS
     * [Install Crouton](http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343)
     * Install python (see linux)
     * Install text editor
-  * [On Linux]()
+  * [On Linux](https://www.python.org/downloads/)
 
 ### Programming concepts ###
 0. Algorithms
@@ -29,6 +29,7 @@ In the programming segment of hackerspace we will focus on learning Python throu
       * Spread (action/stop)
       * Flip
   * Ask students to pick a task they perform regularly and to detail an algorithm to teach the 'Acton Automaton' how to perform it.
+1. Binary numbers
 1. Syntax
 2. Interpreters / Compilers
 3. Functions (methods)
@@ -41,11 +42,11 @@ The basic lessons will go (roughly) as follows:
 0. Installation of Python.
 1. Hello World: Start with the basic hello world message, modify to allow the user to input their name, and have it print hello <name>.
   * see `hello.py`
-  * print statement
-    * Use hyphens (-), plus signs (+), and pipes (|) to print a tic-tac-toe board:
   * comments
   * receiving inputs
   * basic variables and assignment operator
+  * print statement
+    * Use hyphens (-), plus signs (+), and pipes (|) to print a tic-tac-toe board:
   ```
      |   |
   ---+---+---
@@ -103,7 +104,6 @@ The basic lessons will go (roughly) as follows:
 
 * Maker track
   * make their own shirt to earn lvl1 maker (participate in screen printing preparations).
-
 * Circuits track
   * breadboarding to earn lvl1
     * 555 timer kit
@@ -113,7 +113,6 @@ The basic lessons will go (roughly) as follows:
     * solder a proto-board with a circuit of your choosing
     * freeform soldering
   * pcb layout and etching to earn lvl3
-
 * computer disassembly
   * imac teardown, buildup
 * build an acton server
