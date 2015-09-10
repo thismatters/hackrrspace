@@ -132,6 +132,10 @@ The basic lessons will go (roughly) as follows:
     * imac teardown, buildup
   * build an acton server
   * Network maintenance (build an acton network)
+    * [pcengines alix2d2](http://www.pcengines.ch/alix2d2.htm)
+      * [case](http://www.pcengines.ch/case1d1redu.htm)
+    * Switch
+    * wifi adapter
 * how do ____ work
   * remote controls
 
