@@ -103,6 +103,21 @@ The basic lessons will go (roughly) as follows:
 
 * Maker track
   * make their own shirt to earn lvl1 maker (participate in screen printing preparations).
+  * drafting and design; complete design to earn lvl2
+    * material choices
+      * wood
+      * metal
+      * acrylic
+  * produce; complete production to earn lvl3
+    * 3d print
+    * cut
+      * dremel
+      * drill press
+      * bandsaw
+      * table saw
+      * Compound miter
+      * mill
+      * lathe
 * Circuits track
   * breadboarding to earn lvl1
     * 555 timer kit
@@ -112,9 +127,11 @@ The basic lessons will go (roughly) as follows:
     * solder a proto-board with a circuit of your choosing
     * freeform soldering
   * pcb layout and etching to earn lvl3
-* computer disassembly
-  * imac teardown, buildup
-* build an acton server
+* computer track
+  * computer disassembly
+    * imac teardown, buildup
+  * build an acton server
+  * Network maintenance (build an acton network)
 * how do ____ work
   * remote controls
 
