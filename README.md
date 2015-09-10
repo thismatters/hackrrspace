@@ -54,7 +54,6 @@ The basic lessons will go (roughly) as follows:
   ---+---+---
      |   |
   ```
-
 2. Variables: have the students experiment with different datatypes
   * see `variables.py`
   * integers
