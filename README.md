@@ -78,9 +78,8 @@ The basic lessons will go (roughly) as follows:
   * for
   * while
 
-  LEVEL TEST - arbitrarily sized tic-tac-toe board
-
-  * see `advanced_tic_tac_toe.py`
+  1. LEVEL TEST - arbitrarily sized tic-tac-toe board
+    * see `advanced_tic_tac_toe.py`
 6. Try-Except
   * see `exception_handling.py`
   * else
