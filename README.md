@@ -93,6 +93,7 @@ The basic lessons will go (roughly) as follows:
   * dicts
     * see `dictionaries.py`
 10. Objects
+  * see `object_orientation.py`
 8. databases
 8. strings in depth??
   * built in string functions
@@ -131,12 +132,16 @@ The basic lessons will go (roughly) as follows:
   * computer disassembly
     * imac teardown, buildup
   * build an acton server
+    * minecraft server!
   * Network maintenance (build an acton network)
     * [pcengines alix2d2](http://www.pcengines.ch/alix2d2.htm)
       * [case](http://www.pcengines.ch/case1d1redu.htm)
-    * Switch
+    * Switch (maybe Tim has one?)
     * wifi adapter
-* how do ____ work
+    * cat 5 (6?) spool
+      * RJ 45 crimper
+    * Host lan party
+* how do ____ work (TED talks)
   * remote controls
 
 ## Drafting / CAD ##
