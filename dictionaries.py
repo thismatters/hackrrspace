@@ -102,11 +102,27 @@ for name, pet in pets.items():
         print('\t\t', key, 'is', value)
 
 """
-***** TASKS *****
+***** TASK *****
 In another file write a program that will gather information from the
-user about something of your choosing! You must choose a subject which
-you can ask at least four questions about. Gather the data into a
-dictionary of dictionaries like 'pets' from above.
+user about a topic of your choosing! You must choose a subject about 
+which you can ask at least four questions. Gather the data into a
+dictionary of dictionaries like 'pets' from above. Then print that 
+information back for the user.
+
+Go!
+"""
+
+"""
+***** TASK *****
+Figure out what happens when you try to look up a dictionary item that 
+doesn't exist. For instance, if we created an empty dictionary and 
+immediately tried to read a value from it:
+
+>>> this_dict = dict()
+>>> print(this_dict['nothing'])
+
+What results from the operations above? Show me how to deal with this 
+to prevent the program from crashing.
 
 Go!
 """
