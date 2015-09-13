@@ -61,6 +61,8 @@ The basic lessons will go (roughly) as follows:
   * floats
   * typecasting
   * _custom classes??_
+2. Scope
+  * see 'notes_on_scope.py'
 3. Operators
   * covered somewhat in `variables.py`
   * **Resturant bill calculator**

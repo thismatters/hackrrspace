@@ -109,7 +109,6 @@ There are many more functions that operate on list() objects. They can
 be found in the docs:
     https://docs.python.org/3.4/tutorial/datastructures.html
 """
-
 print("Here is the final ingredient list:")
 for ingredient in ingredients:
     print(ingredient, end=',\n')
@@ -117,6 +116,17 @@ for ingredient in ingredients:
 """ There is another type of data structure called a 'dictionary' that 
 we will discuss in the next file, for now see the task below!
 """
+
+"""
+***** TASK *****
+Describe what happens when you try to access the third element of a two 
+element tuple.
+
+For instance what happens when the lines below are executed? 
+How can this issue be handled?   
+"""
+# this_is_a_tuple = (3, 5)
+# print(this_is_a_tuple[2])
 
 """
 ***** TASK *****
