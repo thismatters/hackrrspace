@@ -7,18 +7,21 @@ item_name = input('What do you want to buy? ')
 # remember: input() will accept a string input
 
 item_price = eval(input('How much does it cost? $'))
-""" When we are expecting a number we tell Python by wrapping the 
-input() function in an eval() function! 
-Basically saying: 'get the string input and make it a value (number)'. """
+""" When we are expecting a number we tell Python by wrapping the
+input() function in an eval() function!
+Basically saying: 'get the string input and make it a value (number)'.
+
+What happens if we don't type a number in there?
+"""
 
 item_quantity = eval(input('How many do you want to buy? '))
 # another number
 
+tax_rate = 0.0825
+# This is the sales tax rate in Texas (8.25%).
+
 subtotal = item_price * item_quantity
 # we can do math with the numbers stored in these variables
-
-tax_rate = 0.0825
-# this is the sales tax rate in Texas (8.25%).
 
 tax_amount = subtotal * tax_rate
 # math operations like multiplication '*'
@@ -28,11 +31,12 @@ total = subtotal + tax_amount
 
 print("To buy", item_quantity, item_name, "will cost", total,
     "dollars (after tax).")
-"""We are all familiar with the print statement. 
-The statement above is split across two lines, notice the indentation 
-indicating that the previous line is continuing. """
+"""We are all familiar with the print statement.
+The statement above is split across two lines, notice the indentation
+indicating that the previous line is continuing.
 
-# An 'indentation' is either 4 spaces '    ' or a 'tab'. 
+An 'indentation' is 4 spaces '    '.
+"""
 
 print("And now for something completely different! Python doing math!")
 """ A number with a decimal value is called a 'floating point number'
@@ -62,7 +66,7 @@ print("Raise by Power: 5 ** 2 =", (another_integer ** a_whole_number))
 print("Find Remainder from division: 5 % 2 =",
     (another_integer % a_whole_number))
 # This is another split line.
-# Notice I split it after a comma within a set of (parenteses), 
+# Notice I split it after a comma within a set of (parenteses),
 # and I indented the continued line.
 
 print("\nWait, show me that modulo again!!")
@@ -70,10 +74,10 @@ print("\nWait, show me that modulo again!!")
 print("8 % 3 =", (8 % 3))
 print("92642 % 71 =", (92642 % 71))
 print("8 % 2 =", (8 % 2))
-""" The modulo operator may seem strange--and it is--but it is also 
+""" The modulo operator may seem strange--and it is--but it is also
 quite useful. For instance, knowing that 'another_integer % 2 = 1' tells
-me that 'another_integer' is an odd number, because when I divide an 
-odd number by 2 there will always be a remainder of 1! Also notice that 
+me that 'another_integer' is an odd number, because when I divide an
+odd number by 2 there will always be a remainder of 1! Also notice that
 '8 % 2 = 0', this means that 8 must be an even number.
 
 More information on numerical operators is available in the docs:
@@ -81,7 +85,7 @@ More information on numerical operators is available in the docs:
 """
 
 print("\nIs there math with strings?")
-# Yes, sorta!! 
+# Yes, sorta!!
 word = input("Give me a word: ")
 another_word = input("Give me another word: ")
 number = eval(input("Give me a number: "))
@@ -89,32 +93,32 @@ number = eval(input("Give me a number: "))
 print("Concatenation: word + another_word =", (word + another_word))
 print("Repetition: word * number =", (word * number))
 
-""" 
+"""
 ***** TASK *****
-In another file write a program that will cause the following statement 
-to be printed to the screen 50 times (on 50 separate lines): 
+In another file write a program that will cause the following statement
+to be printed to the screen 50 times (on 50 separate lines):
 
-'I will always be a good hacker!' 
+'I will always be a good hacker!'
 
 call this file 'good_hacker.py'
 
 Go!
 """
 
-""" 
+"""
 ***** TASK *****
-In another file write a program that will cause the following statement 
+In another file write a program that will cause the following statement
 to be printed to the screen:
 
 'I will be a really really really really really really good hacker!'
 
-call this file 'really_good_hacker.py'. 
+call this file 'really_good_hacker.py'.
 
-To successfully complete this task the source code for your program 
-may only contain the word 'really' once! Extra whitespace in the output 
+To successfully complete this task the source code for your program
+may only contain the word 'really' once! Extra whitespace in the output
 is permitted if needed.
 
-If you read the docs on the print statement you might be able to avoid 
+If you read the docs on the print statement you might be able to avoid
 the extra whitespace.
     https://docs.python.org/3.4/library/functions.html#print
 """

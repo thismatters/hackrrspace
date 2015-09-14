@@ -55,7 +55,7 @@ The basic lessons will go (roughly) as follows:
      |   |
   ```
 2. Variables: have the students experiment with different datatypes
-  * see `variables.py`
+  * see `variables_and_operators.py`
   * integers
   * strings
   * floats
@@ -64,7 +64,7 @@ The basic lessons will go (roughly) as follows:
 2. Scope
   * see 'notes_on_scope.py'
 3. Operators
-  * covered somewhat in `variables.py`
+  * covered somewhat in `variables_and_operators.py`
   * **Resturant bill calculator**
   * math operators
   * assignment
