@@ -3,9 +3,9 @@ to move forward. In this file we will explore how we can make our
 programs more tolerant of all the things that can go wrong in a program.
 """
 
-print("Have you ever noticed how Python freaks out when you don't give it the \
-type of data it expects?")
-answer = eval(input("yes/no ? "))
+#print("Have you ever noticed how Python freaks out when you don't give it the \
+#type of data it expects?")
+#answer = eval(input("yes/no ? "))
 
 """ Oops I miswrote the line above to make Python look for a number but
 I made you think you should enter letters. The resulting error is called 

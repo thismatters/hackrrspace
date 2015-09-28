@@ -30,12 +30,13 @@ my_variable = "Hackrrspace!"
 # the old value, 'Acton!', is now gone!
 
 print("Hello", my_variable)
-# will print 'Hello Hacker!'
+# will print 'Hello Hackrrspace!'
 
 """ We can also collect a variable from outside our program by asking 
 the 'user' a question"""
 
-first_name = input("What is your first name (then press enter)? ")
+first_name = input("Type your first name (then press enter): ")
+
 """ 'input' is another function, this one allows Python to read a string 
 from the command line. In the line above this input is stored in the 
 variable 'first_name'. """

@@ -11,12 +11,14 @@ In the programming segment of hackerspace we will focus on learning Python throu
 0. Working Computer
 1. Install python
   * [On OSX](https://www.python.org/downloads/)
-  * [On Windows](https://www.python.org/downloads/)
+  * [On Windows](http://docs.python-guide.org/en/latest/starting/install/win/)
+  * [More Windows Instructions](http://www.howtogeek.com/197947/how-to-install-python-on-windows/)
   * On ChromeOS
     * [Install Crouton](http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343)
     * Install python (see linux)
     * Install text editor
   * [On Linux](https://www.python.org/downloads/)
+    * [Ubuntu](http://askubuntu.com/questions/244544/how-do-i-install-python-3-3)
 
 ### Programming concepts ###
 0. Algorithms
@@ -42,6 +44,7 @@ The basic lessons will go (roughly) as follows:
 0. Installation of Python.
 1. Hello World: Start with the basic hello world message, modify to allow the user to input their name, and have it print hello <name>.
   * see `hello.py`
+  * video!
   * comments
   * receiving inputs
   * basic variables and assignment operator
@@ -55,16 +58,15 @@ The basic lessons will go (roughly) as follows:
      |   |
   ```
 2. Variables: have the students experiment with different datatypes
-  * see `variables.py`
+  * see `variables_and_operators.py`
+  * see video
   * integers
   * strings
   * floats
   * typecasting
   * _custom classes??_
-2. Scope
-  * see 'notes_on_scope.py'
 3. Operators
-  * covered somewhat in `variables.py`
+  * covered somewhat in `variables_and_operators.py`
   * **Resturant bill calculator**
   * math operators
   * assignment
@@ -88,6 +90,8 @@ The basic lessons will go (roughly) as follows:
   * see 'functional_programming.py'
   * accepting values (**kwargs)
   * returning values
+2. Scope
+  * see 'notes_on_scope.py'
 7. Data structures
   * see `data_structures.py`
   * tuples

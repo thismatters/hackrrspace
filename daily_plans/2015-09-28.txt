@@ -1,0 +1,23 @@
+2015-09-28
+
+Hackrrspace Automaton:
+    Introduce student to concept of an 'algorithm'. 
+        A step-by-step problem-solving procedure.
+        Simple steps
+        Finite number of steps
+    Ask students to brainstorm an algorithm for adding two large numbers.
+        critique algorithm
+    Ask students to brainstorm an algorithm for making ramen noodles
+        critique algorithm
+        decide minimum commands that the automaton must know to complete the algorithm
+    Automaton makes a sandwich
+        Decide minimum commands to make a peanut butter and jelly sandwich
+        Choose automaton (will not write algorithm, but will learn commands)
+        Students break into groups to write algorithm for making a sandwich
+        Students will give instructions to automaton in making sandwich!
+
+Screen printing:
+    [Watch video outlining process](https://www.youtube.com/watch?v=MDDE8VvViFo)
+    prepare emulsion
+    apply emulsion to screen, put away to dry
+    Spend rest of time designing hackrrspace logo!

@@ -9,7 +9,8 @@ item_name = input('What do you want to buy? ')
 item_price = eval(input('How much does it cost? $'))
 """ When we are expecting a number we tell Python by wrapping the 
 input() function in an eval() function! 
-Basically saying: 'get the string input and make it a value (number)'. """
+Basically saying: 'get the string input and make it a value (number)'. 
+"""
 
 item_quantity = eval(input('How many do you want to buy? '))
 # another number
@@ -28,7 +29,7 @@ total = subtotal + tax_amount
 
 print("To buy", item_quantity, item_name, "will cost", total,
     "dollars (after tax).")
-"""We are all familiar with the print statement. 
+""" We are all familiar with the print statement. 
 The statement above is split across two lines, notice the indentation 
 indicating that the previous line is continuing. """
 
@@ -49,7 +50,7 @@ another_integer = 5
 it will usually treat variables appropriately based on the value they
 hold. Many other programming languages aren't so savvy. """
 
-"""We can do many mathematical operations on numbers in Python"""
+""" We can do many mathematical operations on numbers in Python"""
 print("\nAddition: 5 + 2 =", (another_integer + a_whole_number))
 # what did that '\n' do??
 print("Subtraction: 5 - 2 =", (another_integer - a_whole_number))
@@ -58,7 +59,8 @@ print("Division: 5 / 2 =", (another_integer / a_whole_number))
 print("Raise by Power: 5 ** 2 =", (another_integer ** a_whole_number))
 # this is 5 to the power of 2 (or 5^2 might be more familiar)
 
-"""There are even some unfamilar operations, the '%' is called 'modulo' """
+""" There are even some unfamilar operations, the '%' is called 'modulo' 
+"""
 print("Find Remainder from division: 5 % 2 =",
     (another_integer % a_whole_number))
 # This is another split line.

@@ -61,6 +61,7 @@ If you want more information on how range() works try searching
 Let's use range() to give the user 5 more guesses. This time let's also 
 track whether the user has guessed correctly so we will know later.
 """
+print("Take 5 more guesses!!")
 
 guessed_correctly = False
 for guesses_attempted in range(6, 11):
@@ -83,6 +84,8 @@ haven't already. This is the perfect time to introduce another looping
 structure. The 'while' loop will execute a block of code until it is 
 told not to continue.
 """
+
+print("Take all the guesses you need")
 
 while guessed_correctly is not True:
     # 'is' can be used in place of '==' in most cases and
