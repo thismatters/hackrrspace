@@ -66,6 +66,8 @@ print("\nTell me about your pet!")
 users_pet = dict()
 for field, question in field_questions:
     users_pet[field] = input(question.format(**users_pet))
+    # the '**' in the line above unpacks the dictionary as
+    #   keyword-arguments this is super useful functionality.
 
 """ Just like tuples (and lists), dictionaries can be 'nested' meaning
 that you can store a dictionary within a dictionary! This nesting
@@ -104,9 +106,9 @@ for name, pet in pets.items():
 """
 ***** TASK *****
 In another file write a program that will gather information from the
-user about a topic of your choosing! You must choose a subject about 
+user about a topic of your choosing! You must choose a subject about
 which you can ask at least four questions. Gather the data into a
-dictionary of dictionaries like 'pets' from above. Then print that 
+dictionary of dictionaries like 'pets' from above. Then print that
 information back for the user.
 
 Go!
@@ -114,14 +116,14 @@ Go!
 
 """
 ***** TASK *****
-Figure out what happens when you try to look up a dictionary item that 
-doesn't exist. For instance, if we created an empty dictionary and 
+Figure out what happens when you try to look up a dictionary item that
+doesn't exist. For instance, if we created an empty dictionary and
 immediately tried to read a value from it:
 
 >>> this_dict = dict()
 >>> print(this_dict['nothing'])
 
-What results from the operations above? Show me how to deal with this 
+What results from the operations above? Show me how to deal with this
 to prevent the program from crashing.
 
 Go!
