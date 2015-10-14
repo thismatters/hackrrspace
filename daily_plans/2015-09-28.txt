@@ -1,5 +1,4 @@
-2015-09-28
-
+2015-09-28 
 Hackrrspace Automaton:
     Introduce student to concept of an 'algorithm'. 
         A step-by-step problem-solving procedure.
@@ -15,9 +14,36 @@ Hackrrspace Automaton:
         Choose automaton (will not write algorithm, but will learn commands)
         Students break into groups to write algorithm for making a sandwich
         Students will give instructions to automaton in making sandwich!
+        
+2015-09-29
+Continued hackerspace automaton:
+    Formalized syntax for the various commands needed.
+    Free time for students to work on their algorithm and test with an automaton of their choosing
 
+2015-10-05
+Continued hackerspace automaton:
+    Showed all students the formalized syntax
+    Started "lightning round" to test students final algorithms
+
+2015-10-06
+Continued hackerspace autamoton:
+    Finished the 'lightning round'. Peyton won.
+    Students started writing an algorithm for making ramen noodles.
+Started installing python on the research machines.
+
+2015-10-12 -- 2015-10-13
+Week off: fall break
+
+
+2015-10-19
 Screen printing:
     [Watch video outlining process](https://www.youtube.com/watch?v=MDDE8VvViFo)
     prepare emulsion
     apply emulsion to screen, put away to dry
     Spend rest of time designing hackrrspace logo!
+
+2015-10-20
+Screen printing:
+    continue designing logo
+Programming:
+    hello world and beyond!
