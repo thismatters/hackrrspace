@@ -1,6 +1,6 @@
 2015-09-28 
 Hackrrspace Automaton:
-    Introduce student to concept of an 'algorithm'. 
+    Introduce student to concept of an 'algorithm'.
         A step-by-step problem-solving procedure.
         Simple steps
         Finite number of steps

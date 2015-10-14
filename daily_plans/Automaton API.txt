@@ -1,0 +1,14 @@
+Automaton API
+
+Commands:
+Grab <object> <location>
+Place <object> <location>
+Move <location | direction>
+Repeat <# of commands> <# of repetitions>
+Open <location | object>
+Close <location | object>
+Scoop <what with> <what>
+Spread <what with> <what>
+
+
+
