@@ -4,15 +4,15 @@ concept called 'scope', which determines where variables are accesible.
 """
 
 def scope_illustration():
-	variable2 = 7
-	variable3 = 2
-	# variable3 is defined within this function; it will not be
-	#    available outside this function
-	print('inside the function variable1 is', variable1)
-	# since variable1 was defined before this function was invoked it is
-	#    available within this function
-	print('inside the function variable2 is', variable2)
-	print('inside the function variable3 is', variable3)
+    variable2 = 7
+    variable3 = 2
+    # variable3 is defined within this function; it will not be
+    #    available outside this function
+    print('inside the function variable1 is', variable1)
+    # since variable1 was defined before this function was invoked it is
+    #    available within this function
+    print('inside the function variable2 is', variable2)
+    print('inside the function variable3 is', variable3)
 
 variable1 = 5
 variable2 = 8
